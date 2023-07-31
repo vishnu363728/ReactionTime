@@ -40,7 +40,10 @@ python pythonComponent.py
 
 6. **Start the Experiment:**
 - When you hear the sound, press the button on the circuit in response. Do not hold the button or press it between sounds.
-- The program will display the reaction time in milliseconds, for example: "Recording 1 reaction time: 233.69073867797852 ms".
+- The program will display the reaction time in milliseconds, for example:
+```
+Recording 1 reaction time: 233.69073867797852 ms
+```
 
 7. **Collect Samples:**
 - Continue pressing the button and collecting samples until you have as many as you need.
